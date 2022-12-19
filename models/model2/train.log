@@ -1,0 +1,7 @@
+Train shape: (3129, 9)
+Valid shape: (782, 9)
+Setting max length from data
+Max tokenized sequence len: 1462
+==================== fold: 0 training ====================
+Using model checkpoint from: None
+Epoch: [1][1/521] Elapsed 0m 10s (remain 93m 30s) Loss: 11.0712(11.0712) Grad: inf  LR: 0.00001000  
